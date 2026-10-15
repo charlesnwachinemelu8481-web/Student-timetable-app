@@ -1,0 +1,6 @@
+{
+  "name": "ClassMate",
+  "description": "Clean student timetable and schedule planner with weekly grid, daily timeline, and course organizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
